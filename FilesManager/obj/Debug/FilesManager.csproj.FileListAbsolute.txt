@@ -1,0 +1,38 @@
+F:\Study\S2\C#\FilesManagers Backup\FilesMnage\bin\Debug\FilesMnage.exe.config
+F:\Study\S2\C#\FilesManagers Backup\FilesMnage\obj\Debug\FilesMnage.exe
+F:\Study\S2\C#\FilesManagers Backup\FilesMnage\obj\Debug\FilesMnage.pdb
+F:\Study\S2\C#\FilesManagers Backup\FilesMnage\bin\Debug\FilesMnage.exe
+F:\Study\S2\C#\FilesManagers Backup\FilesMnage\bin\Debug\FilesMnage.pdb
+F:\Study\S2\C#\FilesManagers Backup\FilesMnage\obj\Debug\FilesManager.csprojResolveAssemblyReference.cache
+F:\Study\S2\C#\FilesManagers\FilesManager\bin\Debug\FilesMnage.exe.config
+F:\Study\S2\C#\FilesManagers\FilesManager\obj\Debug\FilesMnage.exe
+F:\Study\S2\C#\FilesManagers\FilesManager\obj\Debug\FilesMnage.pdb
+F:\Study\S2\C#\FilesManagers\FilesManager\bin\Debug\FilesMnage.exe
+F:\Study\S2\C#\FilesManagers\FilesManager\bin\Debug\FilesMnage.pdb
+F:\Study\S2\C#\FilesManagers\FilesManager\obj\Debug\FilesManager.csprojResolveAssemblyReference.cache
+F:\Study\S2\C#\FilesManagers\FilesManager\bin\Debug\MySql.Data.dll
+F:\Study\S3\C#\FilesManagers\FilesManager\bin\Debug\MySql.Data.dll
+F:\Study\S3\C#\FilesManagers\FilesManager\obj\Debug\FilesManager.csprojResolveAssemblyReference.cache
+F:\Study\S3\C#\FilesManagers\FilesManager\obj\Debug\FilesManager.csproj.GenerateResource.Cache
+F:\Study\S3\C#\FilesManagers\FilesManager\bin\Debug\FilesManager.exe.config
+F:\Study\S3\C#\FilesManagers\FilesManager\bin\Debug\FilesManager.exe
+F:\Study\S3\C#\FilesManagers\FilesManager\bin\Debug\FilesManager.pdb
+F:\Study\S3\C#\FilesManagers\FilesManager\obj\Debug\FilesManager.exe
+F:\Study\S3\C#\FilesManagers\FilesManager\obj\Debug\FilesManager.pdb
+F:\Study\S3\C#\FilesManagers\FilesManager\obj\Debug\FilesManager.Properties.Resources.resources
+F:\Study\S3\C#\FilesManagers\FilesManager\obj\Debug\FilesManager.View.Explorer.resources
+F:\Study\S3\C#\FilesManagers\FilesManager\obj\Debug\FilesMnage.View.LogIn.resources
+F:\Study\S3\C#\FilesManagers\FilesManager\bin\Debug\Oracle.DataAccess.dll
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\bin\Debug\FilesManager.exe.config
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\bin\Debug\FilesManager.exe
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\bin\Debug\FilesManager.pdb
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\bin\Debug\Oracle.DataAccess.dll
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesManager.csprojAssemblyReference.cache
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesManager.Properties.Resources.resources
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesManager.View.Explorer.resources
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesMnage.View.LogIn.resources
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesManager.csproj.GenerateResource.cache
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesManager.csproj.CoreCompileInputs.cache
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesManager.csproj.CopyComplete
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesManager.exe
+D:\Study\Pojects\EST\Windows File Explorer\FilesManager\obj\Debug\FilesManager.pdb

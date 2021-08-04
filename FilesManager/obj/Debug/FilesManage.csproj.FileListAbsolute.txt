@@ -1,0 +1,6 @@
+F:\Study\S2\C#\FilesMnage\FilesMnage\bin\Debug\FilesMnage.exe.config
+F:\Study\S2\C#\FilesMnage\FilesMnage\bin\Debug\FilesMnage.exe
+F:\Study\S2\C#\FilesMnage\FilesMnage\bin\Debug\FilesMnage.pdb
+F:\Study\S2\C#\FilesMnage\FilesMnage\obj\Debug\FilesManage.csprojResolveAssemblyReference.cache
+F:\Study\S2\C#\FilesMnage\FilesMnage\obj\Debug\FilesMnage.exe
+F:\Study\S2\C#\FilesMnage\FilesMnage\obj\Debug\FilesMnage.pdb
